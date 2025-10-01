@@ -1,0 +1,30 @@
+﻿@page
+@model Farmacia_Singleton.Pages.FamiliesCreateModel
+@{
+    ViewData["Title"] = "New Family";
+}
+
+<h2>New Family</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label>Name</label>
+        <input asp-for="Name" class="form-control" required maxlength="120" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mt-2">
+        <label>Therapeutic Area</label>
+        <input asp-for="TherapeuticArea" class="form-control" required maxlength="120" />
+        <span asp-validation-for="TherapeuticArea" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mt-2">
+        <label>Description</label>
+        <input asp-for="Description" class="form-control" required maxlength="255" />
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-3">Save</button>
+    <a asp-page="Families" class="btn btn-secondary mt-3">Back</a>
+</form>

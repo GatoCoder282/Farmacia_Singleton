@@ -19,7 +19,7 @@ namespace Farmacia_Singleton
                 app.UseHsts();
             }
 
-            app.UseHttpsRedirection();
+            //app.UseHttpsRedirection();
 
             app.UseRouting();
 
