@@ -6,7 +6,27 @@ using System.Threading.Tasks;
 
 namespace Farmacia.Core.Models.Entities
 {
-    internal class Medicine
+    public class Medicine
     {
+        #region Atributes
+        private int _id { get; set; }
+        private string _name { get; set; } = string.Empty;
+        private string _skuCode { get; set; } = string.Empty;
+        private int _concentrationAmount { get; set; }
+        private bool _isRestricted { get; set; } = false;
+        private bool _isActive { get; set; } = true;
+        #endregion
+
+        #region Constructor
+        public Medicine()
+        {
+
+        }
+
+        public Medicine(int id, string name, string skuCode, int conce)
+        {
+
+        }
+        #endregion
     }
 }
