@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\pages\\medicines.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\pages\\medicines.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\pages\\familiescreate.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\pages\\familiescreate.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\pages\\familiesedit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\pages\\familiesedit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\pages\\familiesedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\pages\\familiesedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\pages\\familiescreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\pages\\familiescreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\pages\\families.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\pages\\families.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\pages\\families.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\pages\\families.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\data\\dbconnectionsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\data\\dbconnectionsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\pages\\medicinesedit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\data\\dbconnectionsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\data\\dbconnectionsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\pages\\medicinescreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\pages\\medicinescreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -35,40 +71,8 @@
       "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\pages\\medicines.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\pages\\medicines.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\pages\\medicines.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\pages\\families.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\pages\\families.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\pages\\families.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\pages\\families.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\pages\\familiescreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\pages\\familiescreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\pages\\familiesedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\pages\\familiesedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\pages\\familiesedit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\pages\\familiesedit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\pages\\familiescreate.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|solutionrelative:farmacia_singleton\\pages\\familiescreate.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFD3B708-B144-4B60-9613-8011B8FBC7AC}|Farmacia_Singleton\\Farmacia_Singleton.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\farmacia_singleton\\farmacia_singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +102,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Farmacia_Singleton\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Farmacia_Singleton\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T03:28:25.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Farmacia_Singleton\\Pages\\_ViewImports.cshtml",
@@ -111,12 +128,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "MedicinesEdit.cshtml.cs",
               "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\MedicinesEdit.cshtml.cs",
               "RelativeDocumentMoniker": "Farmacia_Singleton\\Pages\\MedicinesEdit.cshtml.cs",
-              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\MedicinesEdit.cshtml.cs*",
-              "RelativeToolTip": "Farmacia_Singleton\\Pages\\MedicinesEdit.cshtml.cs*",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\MedicinesEdit.cshtml.cs",
+              "RelativeToolTip": "Farmacia_Singleton\\Pages\\MedicinesEdit.cshtml.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAuwAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T03:09:04.855Z",
@@ -124,12 +141,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "MedicinesEdit.cshtml",
               "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\MedicinesEdit.cshtml",
               "RelativeDocumentMoniker": "Farmacia_Singleton\\Pages\\MedicinesEdit.cshtml",
-              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\MedicinesEdit.cshtml*",
-              "RelativeToolTip": "Farmacia_Singleton\\Pages\\MedicinesEdit.cshtml*",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\MedicinesEdit.cshtml",
+              "RelativeToolTip": "Farmacia_Singleton\\Pages\\MedicinesEdit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-02T03:08:47.859Z",
@@ -137,12 +154,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "MedicinesCreate.cshtml.cs",
               "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\MedicinesCreate.cshtml.cs",
               "RelativeDocumentMoniker": "Farmacia_Singleton\\Pages\\MedicinesCreate.cshtml.cs",
-              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\MedicinesCreate.cshtml.cs*",
-              "RelativeToolTip": "Farmacia_Singleton\\Pages\\MedicinesCreate.cshtml.cs*",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\MedicinesCreate.cshtml.cs",
+              "RelativeToolTip": "Farmacia_Singleton\\Pages\\MedicinesCreate.cshtml.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T03:07:47.37Z",
@@ -150,12 +167,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "MedicinesCreate.cshtml",
               "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\MedicinesCreate.cshtml",
               "RelativeDocumentMoniker": "Farmacia_Singleton\\Pages\\MedicinesCreate.cshtml",
-              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\MedicinesCreate.cshtml*",
-              "RelativeToolTip": "Farmacia_Singleton\\Pages\\MedicinesCreate.cshtml*",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\MedicinesCreate.cshtml",
+              "RelativeToolTip": "Farmacia_Singleton\\Pages\\MedicinesCreate.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-02T03:07:21.571Z",
@@ -163,12 +180,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "Medicines.cshtml.cs",
               "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\Medicines.cshtml.cs",
               "RelativeDocumentMoniker": "Farmacia_Singleton\\Pages\\Medicines.cshtml.cs",
-              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\Medicines.cshtml.cs*",
-              "RelativeToolTip": "Farmacia_Singleton\\Pages\\Medicines.cshtml.cs*",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\Medicines.cshtml.cs",
+              "RelativeToolTip": "Farmacia_Singleton\\Pages\\Medicines.cshtml.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T03:06:36.094Z",
@@ -176,20 +193,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Medicines.cshtml",
               "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\Medicines.cshtml",
               "RelativeDocumentMoniker": "Farmacia_Singleton\\Pages\\Medicines.cshtml",
-              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\Medicines.cshtml*",
-              "RelativeToolTip": "Farmacia_Singleton\\Pages\\Medicines.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAuAAAAAAAAAA==",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\Medicines.cshtml",
+              "RelativeToolTip": "Farmacia_Singleton\\Pages\\Medicines.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-02T03:05:44.777Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Program.cs",
               "RelativeDocumentMoniker": "Farmacia_Singleton\\Program.cs",
@@ -201,12 +218,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Farmacia_Singleton\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "Farmacia_Singleton\\Pages\\Shared\\_Layout.cshtml*",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Farmacia_Singleton\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-01T05:17:42.378Z",
@@ -214,31 +231,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 2,
               "Title": "FamiliesEdit.cshtml.cs",
               "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\FamiliesEdit.cshtml.cs",
               "RelativeDocumentMoniker": "Farmacia_Singleton\\Pages\\FamiliesEdit.cshtml.cs",
               "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\FamiliesEdit.cshtml.cs",
               "RelativeToolTip": "Farmacia_Singleton\\Pages\\FamiliesEdit.cshtml.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAuwEcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T05:07:14.867Z"
+              "WhenOpened": "2025-10-01T05:07:14.867Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 3,
               "Title": "FamiliesEdit.cshtml",
               "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\FamiliesEdit.cshtml",
               "RelativeDocumentMoniker": "Farmacia_Singleton\\Pages\\FamiliesEdit.cshtml",
               "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\FamiliesEdit.cshtml",
               "RelativeToolTip": "Farmacia_Singleton\\Pages\\FamiliesEdit.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-01T05:07:00.155Z"
+              "WhenOpened": "2025-10-01T05:07:00.155Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 1,
               "Title": "FamiliesCreate.cshtml.cs",
               "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\FamiliesCreate.cshtml.cs",
               "RelativeDocumentMoniker": "Farmacia_Singleton\\Pages\\FamiliesCreate.cshtml.cs",
@@ -246,11 +265,12 @@
               "RelativeToolTip": "Farmacia_Singleton\\Pages\\FamiliesCreate.cshtml.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAcwCkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T05:05:10.25Z"
+              "WhenOpened": "2025-10-01T05:05:10.25Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "FamiliesCreate.cshtml",
               "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\FamiliesCreate.cshtml",
               "RelativeDocumentMoniker": "Farmacia_Singleton\\Pages\\FamiliesCreate.cshtml",
@@ -263,51 +283,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Families.cshtml.cs",
               "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\Families.cshtml.cs",
               "RelativeDocumentMoniker": "Farmacia_Singleton\\Pages\\Families.cshtml.cs",
               "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\Families.cshtml.cs",
               "RelativeToolTip": "Farmacia_Singleton\\Pages\\Families.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T05:03:25.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "Families.cshtml",
               "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\Families.cshtml",
               "RelativeDocumentMoniker": "Farmacia_Singleton\\Pages\\Families.cshtml",
               "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Pages\\Families.cshtml",
               "RelativeToolTip": "Farmacia_Singleton\\Pages\\Families.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-01T05:03:05.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "DbConnectionSingleton.cs",
               "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Data\\DbConnectionSingleton.cs",
               "RelativeDocumentMoniker": "Farmacia_Singleton\\Data\\DbConnectionSingleton.cs",
               "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Data\\DbConnectionSingleton.cs",
               "RelativeToolTip": "Farmacia_Singleton\\Data\\DbConnectionSingleton.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T05:01:32.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\appsettings.json",
               "RelativeDocumentMoniker": "Farmacia_Singleton\\appsettings.json",
-              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\appsettings.json*",
-              "RelativeToolTip": "Farmacia_Singleton\\appsettings.json*",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\appsettings.json",
+              "RelativeToolTip": "Farmacia_Singleton\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-01T04:58:39.204Z",
@@ -315,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Farmacia_Singleton\\appsettings.Development.json",
@@ -328,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Farmacia_Singleton\\Properties\\launchSettings.json",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Farmacia_Singleton")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a3402b7716306a0fe756078f9821745f7b6bea3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+530ff21c986ac1dda11fa3fd52b47b7d0ad2ac3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Farmacia_Singleton")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Farmacia_Singleton")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
