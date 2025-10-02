@@ -28,9 +28,9 @@ namespace Farmacia.Infraestructure.Repositories.Implementations
                             VALUES (@name, @skucode, @concentrationamount, @isrestricted, @isactive)";
 
             using var cmd = new MySqlCommand(query, connection);
-            cmd.Parameters.AddWithValue("@name", medicine.);
-            cmd.Parameters.AddWithValue("@sku", medicine.CodigoSKU);
-            cmd.Parameters.AddWithValue()
+            cmd.Parameters.AddWithValue("@name", medicine.name);
+            cmd.Parameters.AddWithValue("@skucode", medicine.);
+            cmd.Parameters.AddWithValue("@concentrationamount", medicine.)
             cmd.Parameters.AddWithValue("@activo", Medicine.Activo);
             cmd.ExecuteNonQuery();
         }
@@ -71,7 +71,7 @@ namespace Farmacia.Infraestructure.Repositories.Implementations
             {
                 lista.Add(new Medicine
                 {
-                    Id = reader.GetInt32("Id"),
+                    id = reader.GetInt32("Id"),
                     Nombre = reader.GetString("Nombre"),
                     CodigoSKU = reader.GetString("CodigoSKU"),
                     ClasificacionId = reader.GetInt32("ClasificacionId"),
