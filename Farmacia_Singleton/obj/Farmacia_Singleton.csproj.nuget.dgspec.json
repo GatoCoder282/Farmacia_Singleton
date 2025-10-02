@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Farmacia_Singleton.csproj": {}
+    "C:\\Users\\Display\\Documents\\UNI\\8vo semestre\\Arquitectura de Software\\PROYECTO2\\Farmacia\\Farmacia_Singleton\\Farmacia_Singleton\\Farmacia_Singleton.csproj": {}
   },
   "projects": {
-    "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Farmacia_Singleton.csproj": {
+    "C:\\Users\\Display\\Documents\\UNI\\8vo semestre\\Arquitectura de Software\\PROYECTO2\\Farmacia\\Farmacia_Singleton\\Farmacia_Singleton\\Farmacia_Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Farmacia_Singleton.csproj",
+        "projectUniqueName": "C:\\Users\\Display\\Documents\\UNI\\8vo semestre\\Arquitectura de Software\\PROYECTO2\\Farmacia\\Farmacia_Singleton\\Farmacia_Singleton\\Farmacia_Singleton.csproj",
         "projectName": "Farmacia_Singleton",
-        "projectPath": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\Farmacia_Singleton.csproj",
-        "packagesPath": "C:\\Users\\PABLO\\.nuget\\packages\\",
-        "outputPath": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\Farmacia_Singleton\\Farmacia_Singleton\\obj\\",
+        "projectPath": "C:\\Users\\Display\\Documents\\UNI\\8vo semestre\\Arquitectura de Software\\PROYECTO2\\Farmacia\\Farmacia_Singleton\\Farmacia_Singleton\\Farmacia_Singleton.csproj",
+        "packagesPath": "C:\\Users\\Display\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Display\\Documents\\UNI\\8vo semestre\\Arquitectura de Software\\PROYECTO2\\Farmacia\\Farmacia_Singleton\\Farmacia_Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PABLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Display\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -74,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
