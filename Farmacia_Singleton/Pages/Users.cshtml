@@ -1,0 +1,39 @@
+﻿@page
+@using System.Data
+@model Farmacia_Singleton.Pages.UsersModel
+
+<h2>Users</h2>
+
+<p>
+    <a asp-page="UsersCreate" class="btn btn-primary">New user</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Registered</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (DataRow row in Model.UsersTable.Rows)
+        {
+            <tr>
+                <td>@row["id"]</td>
+                <td>@row["name"]</td>
+                <td>@row["email"]</td>
+                <td>@row["created_at"]</td>
+                <td>
+                    <a asp-page="UsersEdit" asp-route-id="@row["id"]" class="btn btn-sm btn-secondary">Edit</a>
+                    <form method="post" asp-page-handler="Delete" asp-route-id="@row["id"]" style="display:inline"
+                          onsubmit="return confirm('Delete this user?');">
+                        <button type="submit" class="btn btn-sm btn-link">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
