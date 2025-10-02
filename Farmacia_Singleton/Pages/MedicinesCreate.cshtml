@@ -1,0 +1,39 @@
+﻿@page
+@model Farmacia_Singleton.Pages.MedicinesCreateModel
+@{
+    ViewData["Title"] = "New Medicine";
+}
+
+<h2>New Medicine</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label>Name</label>
+        <input asp-for="Name" class="form-control" required maxlength="150" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mt-2">
+        <label>Family</label>
+        <select asp-for="FamilyId" asp-items="Model.FamiliesOptions" class="form-select" required>
+            <option value="">-- Select a family --</option>
+        </select>
+        <span asp-validation-for="FamilyId" class="text-danger"></span>
+    </div>
+
+    <div class="row mt-2">
+        <div class="col-sm-6">
+            <label>Cost Price</label>
+            <input asp-for="CostPrice" class="form-control" type="number" step="0.01" min="0" required />
+            <span asp-validation-for="CostPrice" class="text-danger"></span>
+        </div>
+        <div class="col-sm-6">
+            <label>Sale Price</label>
+            <input asp-for="SalePrice" class="form-control" type="number" step="0.01" min="0" required />
+            <span asp-validation-for="SalePrice" class="text-danger"></span>
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-3">Save</button>
+    <a asp-page="Medicines" class="btn btn-secondary mt-3">Back</a>
+</form>

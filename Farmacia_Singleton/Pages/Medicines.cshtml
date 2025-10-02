@@ -1,0 +1,47 @@
+﻿@page
+@model Farmacia_Singleton.Pages.MedicinesModel
+@{
+    ViewData["Title"] = "Medicines";
+}
+
+<h2>Medicines</h2>
+
+<div class="mb-3">
+    <a asp-page="MedicinesCreate" class="btn btn-primary">New Medicine</a>
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Family</th>
+            <th>Cost Price</th>
+            <th>Sale Price</th>
+            <th>Created at</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (System.Data.DataRow row in Model.MedicinesTable.Rows)
+{
+        <tr>
+            <td>@row["name"]</td>
+            <td>@row["family_name"]</td>
+            <td>@row["cost_price"]</td>
+            <td>@row["sale_price"]</td>
+            <td>@row["created_at"]</td>
+            <td>
+                <a asp-page="MedicinesEdit" asp-route-id="@row["id"]" class="btn btn-warning btn-sm">Edit</a>
+                <form method="post" asp-page-handler="Delete" asp-route-id="@row["id"]" style="display:inline">
+                    <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                </form>
+            </td>
+        </tr>
+}
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="6">@Model.MedicinesTable.Rows.Count record(s)</td>
+        </tr>
+    </tfoot>
+</table>
