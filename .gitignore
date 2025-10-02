@@ -482,3 +482,13 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# ---- Extra: NuGet restore artifacts y MSBuild generados ----
+# Algunos no están en la plantilla por defecto
+*.nuget.g.props
+*.nuget.g.targets
+*.nuget.cache
+*.dgspec.json
+project.assets.json
+*.assets.cache
+Farmacia_Singleton.GeneratedMSBuildEditorConfig.editorconfig
